@@ -9,7 +9,7 @@ body{
     background-color: #202124;
 }
 
-.header{
+.headers{
     height: 50px;
     width: 100%;
     padding: 0.5rem;
@@ -19,7 +19,7 @@ body{
     background-color: #171717;
 }
 
-.card{
+.cards{
     display: inline;
     padding: 1rem;
     border-radius: 10px;
@@ -40,18 +40,18 @@ body{
     100% { background-position: 0% 50% }
   }
 
-.body{
+.bodys{
     height: 100%;
     width: 100%;
     display: flex;
     justify-content: center;
 }
 
-.image{
+.images{
     border-radius: 3px;
 }
 
-.audio{
+.audios{
     height: 100%;
     display: flex;
     justify-content: center;
